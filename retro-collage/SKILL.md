@@ -146,7 +146,7 @@ background in HTML/CSS for a website hero).
 
 ## Credits
 
-Created by Animesh (with Claude). Built on open-source components:
+Created with Claude. Built on open-source components:
 MediaPipe (Google, Apache-2.0) for subject segmentation and face landmarks,
 OpenCV, Pillow, and NumPy for image processing. The visual style draws on
 1960s–70s mod/psychedelic print design and the contemporary "vintage sticker
