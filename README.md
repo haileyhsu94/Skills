@@ -12,7 +12,7 @@ composited onto a bold 60s–70s patterned background — at any aspect ratio.
 | | | |
 |---|---|---|
 | ![portrait](retro-collage/examples/portrait-9x16-stripes-plum-mustard.jpg) | ![cat](retro-collage/examples/tabby-1x1-sunburst-cherry-butter.jpg) | ![banana](retro-collage/examples/banana-1x1-denim-daisy.jpg) |
-| 9:16 · burnt-orange-navy | 4:5 · teal-tomato | 1:1 dots · denim-daisy |
+| 9:16 · stripe-mustard-plum | 4:5 · sunburnt-cherry-butter | 1:1 dots · denim-daisy |
 
 Features: fully offline subject extraction (mediapipe → color-key → GrabCut
 fallback chain), 22 named color palettes, three background patterns
